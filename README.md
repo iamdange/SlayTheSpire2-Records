@@ -14,3 +14,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 | 铁甲战士 | 进阶 10 | `6ZJK95Q7GYY4` | 双 Boss 击杀通关（停于第 49 层后建筑师事件） | 49 层 | [01_ironclad_asc10_6ZJK95Q7GYY4.md](./runs/01_ironclad_asc10_6ZJK95Q7GYY4.md) |
 | 02 | 愚者 | 进阶 10 | `E3EQEQ91QFXB` | 击败女王后止步于 2 号 Boss 永世沙漏（0/87 HP） | 49 层 | [02_fool_asc10_E3EQEQ91QFXB.md](./runs/02_fool_asc10_E3EQEQ91QFXB.md) |
+
+## 技术指南与机制文档
+
+- **愚者（Fool）进阶 10 完整实战技术文档（路线规划 + 数值计算 + DPT 验算 + 选牌跳过标准）**：[fool_asc10_technical_guide.md](./docs/fool_asc10_technical_guide.md)
