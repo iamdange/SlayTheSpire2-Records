@@ -13,3 +13,4 @@
 | 序号 | 角色 | 进阶等级 | 种子 | 结果 | 最高层数 | 详细复盘 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 | 铁甲战士 | 进阶 10 | `6ZJK95Q7GYY4` | 双 Boss 击杀通关（停于第 49 层后建筑师事件） | 49 层 | [01_ironclad_asc10_6ZJK95Q7GYY4.md](./runs/01_ironclad_asc10_6ZJK95Q7GYY4.md) |
+| 02 | 愚者 | 进阶 10 | `E3EQEQ91QFXB` | 击败女王后止步于 2 号 Boss 永世沙漏（0/87 HP） | 49 层 | [02_fool_asc10_E3EQEQ91QFXB.md](./runs/02_fool_asc10_E3EQEQ91QFXB.md) |
